@@ -1,0 +1,91 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Homework</title>
+    </head>
+    <body>
+        <header>
+            <a href="/">WebStudio</a> 
+            <nav>
+                <ul>
+                    <li><a href="">Студія</a></li>
+                    <li><a href="">Портфоліо</a></li>
+                    <li><a href="">Контакти</a></li>
+                </ul>
+            </nav>
+            <ul>
+                <li><a href="mailto:">info@devstudio.com</a></li>
+                <li><a href="tel:">+38 096 111 11 11</a></li>
+            </ul>
+        </header>
+        <main>
+            <h1>Ефективні рішення для вашого бізнесу</h1>
+            <button type="button">Замовити послугу</button>
+            <ul>
+                <li>
+                    <p><strong>Увага до деталей</strong></p>
+                    <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції</p>
+                </li>
+                <li>
+                    <p><strong>Пунктуальність</strong></p>
+                    <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе</p>
+                </li>
+                <li>
+                    <p><strong>Планування</strong></p>
+                    <p>Так само консультації з широким активом значною мірою зумовлює</p>
+                </li>
+                <li>
+                    <p><strong>Сучасні технології</strong></p>
+                    <p>Значимість цих проблем настільки очевидна, що реалізація планових завдань</p>
+                </li>
+            </ul>
+            <h2>Чим ми займаємося</h2>
+            <ul>
+                <li>
+                    <img src="/photos/photo1.png" alt="Комп'ютер з графіками"/>
+                </li>
+                <li>
+                    <img src="/photos/photo2.png" alt="Комп'ютер з телефонами"/>
+                </li>
+                <li>
+                    <img src="/photos/photo3.png" alt="Комп'ютер з градієнтами"/>
+                </li>
+            </ul>
+            <section>
+                <h2>Наша команда</h2>
+                <ul>
+                    <li>
+                        <img src="/photos/photo4.png" alt="Людина в червоній рубашці"/>
+                        <p><strong>Ігор Дем'яненко</strong></p>
+                        <p>Product Designer</p>
+                    </li>
+                    <li>
+                        <img src="/photos/photo5.png" alt="Жінка в чорній рубашці"/>
+                        <p><strong>Ольга Рєпіна</strong></p>
+                        <p>Frontend Developer</p>
+                    </li>
+                    <li>
+                        <img src="/photos/photo6.png" alt="Людина в білій рубашці"/>
+                        <p><strong>Микола Тарасов</strong></p>
+                        <p>Marketing</p>
+                    </li>
+                    <li>
+                        <img src="/photos/photo7.png" alt="Людина в чорній футболці"/>
+                        <p><strong>Михайло Єрмаков</strong></p>
+                        <p>UI Designer</p>
+                    </li>
+                 </ul>
+            </section>
+        </main>
+        <footer>
+            <a href="">WebStudio</a>
+            <address>
+                <p>м.Київ, пр-т Лесі Українки, 26</p>
+                <a href="mailto:">info@devstudio.com</a>
+                <a href="tel:">+38 096 111 11 11</a>
+            </address>
+        </footer>
+    </body>
+</html>
